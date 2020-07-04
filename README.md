@@ -12,6 +12,7 @@ I'm Rohith Palakirti, currently a sophomore at Manipal Academy of Higher Educati
 - 📫 How to reach me: 
   - Email: rohith[at]rkpblog[dot]tech,
            rohithkp99[at]gmail[dot]com
+  - Keybase: https://keybase.io/rohithkp
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My all time favorite SciFi book is [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy).
 
