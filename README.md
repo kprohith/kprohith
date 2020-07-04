@@ -10,8 +10,8 @@ I'm Rohith Palakirti, currently a sophomore at Manipal Academy of Higher Educati
  <br>Blog: https://www.rkpblog.tech
  <br>LinkedIn: https://linkedin.com/rohith-kp
  <br>CV: 
- [Short form](https://drive.google.com/file/d/1GNI12_8hh-ifSi-0k6YgHSkUkM-XykbK/view?usp=sharing) <br>
- [Long formm](https://drive.google.com/file/d/1lRLYUBquMmihU7_QP115nudGhwaoyjUE/view?usp=sharing)
+   - [Short form](https://drive.google.com/file/d/1GNI12_8hh-ifSi-0k6YgHSkUkM-XykbK/view?usp=sharing) <br>
+   - [Long form](https://drive.google.com/file/d/1lRLYUBquMmihU7_QP115nudGhwaoyjUE/view?usp=sharing)
  
 - 🔭 I’m currently working my way through the [teach-yourself-cs curriculum](teachyourselfcs.com)
 - 🌱 I’m currently reading the [Wizard Book](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs), [the Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools), and [the Red Book](http://www.redbook.io/)
