@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 I'm Rohith Palakirti, currently a sophomore at Manipal Academy of Higher Education pursuing a Bachelor of Science in Computer Science. Skilled in Python, C++, Java, HTML, CSS, JavaScript. Pytorch, tensorflow, keras, Microsoft Azure, fast.ai and love tinkering with Arduinos. Interested in deep learning, neural networks and full-stack development. Always looking for opportunities to learn and improve.
  
- Blog: https://www.rkpblog.tech
- LinkedIn: https://linkedin.com/rohith-kp
- CV: 
+ <br>Blog: https://www.rkpblog.tech
+ <br>LinkedIn: https://linkedin.com/rohith-kp
+ <br>CV: 
  https://drive.google.com/file/d/1GNI12_8hh-ifSi-0k6YgHSkUkM-XykbK/view?usp=sharing, 
  https://drive.google.com/file/d/1lRLYUBquMmihU7_QP115nudGhwaoyjUE/view?usp=sharing
  
