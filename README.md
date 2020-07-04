@@ -10,7 +10,7 @@ I'm Rohith Palakirti, currently a sophomore at Manipal Academy of Higher Educati
 - 🔭 I’m currently working my way through the [teach-yourself-cs curriculum](teachyourselfcs.com)
 - 🌱 I’m currently reading the [Wizard Book](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs), [the Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools), and [the Red Book](http://www.redbook.io/)
 - 📫 How to reach me: 
-  - Email: rohith[at]rkpblog[dot]tech
+  - Email: rohith[at]rkpblog[dot]tech,
            rohithkp99[at]gmail[dot]com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My all time favorite SciFi book is [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
