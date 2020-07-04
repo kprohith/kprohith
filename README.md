@@ -19,6 +19,6 @@ I'm Rohith Palakirti, currently a sophomore at Manipal Academy of Higher Educati
  <br>Blog: https://www.rkpblog.tech/
  <br>LinkedIn: https://linkedin.com/in/rohith-kp
  <br>CV: 
-   1. [Short form](https://drive.google.com/file/d/1GNI12_8hh-ifSi-0k6YgHSkUkM-XykbK/view?usp=sharing) <br>
+   1. [Short form](https://www.rkpblog.tech/Rohith_Palakirti_Manipal.pdf) <br>
    2. [Long form](https://drive.google.com/file/d/1lRLYUBquMmihU7_QP115nudGhwaoyjUE/view?usp=sharing)
  
