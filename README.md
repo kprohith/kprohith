@@ -34,6 +34,8 @@ I'm [**Rohith Palakirti**](https://linkedin.com/in/rohith-kp), currently a sopho
 - On Twitter: [fortytwochars](https://twitter.com/fortytwochars)
 - On Hacker News: [rohithkp](https://news.ycombinator.com/user?id=rohithkp)
 
+### [Curriculum Vitae](#curriculum-vitae)
+
 ---
 
 - [📠Here's my Resume](https://rkpblog.tech/cv.pdf)
