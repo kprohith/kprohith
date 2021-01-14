@@ -11,7 +11,7 @@ I'm [**Rohith Palakirti**](https://linkedin.com/in/rohith-kp), currently a sopho
 
 ---
 
-- 📃I write a [blog](https://www.rkpblog.tech) about stuff that I'm working on.
+- 📃I write a [blog](https://blog.rohithkp.me) about stuff that I'm working on.
 - 🔭 I’m currently working my way through the [teach-yourself-cs curriculum](https://www.teachyourselfcs.com).
 - 🌱 I’m currently reading the [Wizard Book](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs), [the Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools), and [the Red Book](http://www.redbook.io/).
 - 😄 Pronouns: He/Him/His
@@ -28,7 +28,7 @@ I'm [**Rohith Palakirti**](https://linkedin.com/in/rohith-kp), currently a sopho
 
  You can also reach me
 
-- On my Blog: [Rohith's Blog](https://www.rkpblog.tech/)
+- On my Blog: [Rohith's Blog](https://blog.rohithkp.me/)
 - On LinkedIn: [Rohith Palakirti](https://linkedin.com/in/rohith-kp)
 - On Github: [kprohith](https://github.com/kprohith)
 - On Twitter: [fortytwochars](https://twitter.com/fortytwochars)
@@ -38,7 +38,7 @@ I'm [**Rohith Palakirti**](https://linkedin.com/in/rohith-kp), currently a sopho
 
 ---
 
-- [📠Here's my Resume](https://rkpblog.tech/cv.pdf)
+- [📠Here's my Resume](https://blog.rohithkp.me/cv.pdf)
 
 - [🧾Here's my long form Curriculum Vitae](https://drive.google.com/file/d/1lRLYUBquMmihU7_QP115nudGhwaoyjUE/view?usp=sharing)
 
