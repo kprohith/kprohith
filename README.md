@@ -40,7 +40,7 @@ I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at The U
 
 - [📠Here's my Resume](https://blog.rohithkp.me/cv.pdf)
 
-- [🧾Here's my long form Curriculum Vitae](https://drive.google.com/file/d/1lRLYUBquMmihU7_QP115nudGhwaoyjUE/view?usp=sharing)
+- [🧾Here's my long form Curriculum Vitae](https://blog.rohithkp.me/resume.pdf)
 
 ---
 
