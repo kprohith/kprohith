@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I'm [**Rohith Palakirti**](https://linkedin.com/in/rohith-kp), currently a sophomore at Manipal Academy of Higher Education pursuing a Bachelor of Science in Computer Science. Skilled in Python, C++, Go, Java, HTML, CSS, JavaScript Pytorch, TensorFlow, Keras, Microsoft Azure, fast.ai, the JAMStack and the MERNStack and love tinkering with Arduinos. Interested in deep learning, neural networks and full-stack development. Always looking for opportunities to learn and improve.
+I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at The University of Queensland pursuing a Bachelor of Engineering(Honours) in Computer Science. Skilled in Python, C++, Go, Java, HTML, CSS, JavaScript Pytorch, TensorFlow, Keras, Microsoft Azure, fast.ai, the JAMStack and the MERNStack and love tinkering with Arduinos. Interested in deep learning, neural networks and full-stack development. Always looking for opportunities to learn and improve.
 
 ### [Stuff I do](#stuff-i-do)
 
