@@ -22,8 +22,8 @@ I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at The U
 
 ---
 
-- 📧Shoot me an Email at [rohith[at]rkpblog[dot]tech](mailto:rohith@rkpblog.tech) or
-           [rohithkp99[at]gmail[dot]com](mailto:rohithkp99@gmail.com)
+- 📧Shoot me an email at [hello[at]rohithkp.me](mailto:hello@rohithkp.me)
+
 - 🔑Find me on Keybase as [rohithkp](https://keybase.io/rohithkp)
 
  You can also reach me
