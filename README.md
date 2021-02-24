@@ -34,13 +34,6 @@ I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at The U
 - On Twitter: [fortytwochars](https://twitter.com/fortytwochars)
 - On Hacker News: [rohithkp](https://news.ycombinator.com/user?id=rohithkp)
 
-### [Curriculum Vitae](#curriculum-vitae)
-
----
-
-- [📠Here's my Resume](https://blog.rohithkp.me/cv.pdf)
-
-- [🧾Here's my long form Curriculum Vitae](https://blog.rohithkp.me/resume.pdf)
 
 ---
 
