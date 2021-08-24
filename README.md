@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at The University of Queensland pursuing a Bachelor of Engineering(Honours) in Software Engineering.
+I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at [The University of Queensland](https://www.uq.edu.au) pursuing a Bachelor of Engineering(Honours) in Software Engineering.
 ### [Stuff I do](#stuff-i-do)
 
 ---
