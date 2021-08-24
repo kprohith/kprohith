@@ -14,7 +14,6 @@ I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at The U
 - 📃I maintain a blog over [here](https://blog.rohithkp.me) and [here](https://r18i.me) about stuff that I'm working on.
 - 🔭 I’m currently working my way through the [teach-yourself-cs curriculum](https://www.teachyourselfcs.com).
 - 🌱 I’m currently reading the [Wizard Book](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs), [the Dragon Book](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools), and [the Red Book](http://www.redbook.io/).
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My all time favorite SciFi book is [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy).
 - 🤿 I follow cricket and Formula One closely.
 
