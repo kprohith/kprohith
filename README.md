@@ -16,7 +16,7 @@ I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at [The 
 
 ---
 
-- 📧Shoot me an email at [hello[at]rohithkp.me](mailto:hello@rohithkp.me)
+- 📧Shoot me an email at [hello [at] rohithkp [dot] me](mailto:hello@rohithkp.me)
 
 - 🔑Find me on Keybase as [rohithkp](https://keybase.io/rohithkp)
 
