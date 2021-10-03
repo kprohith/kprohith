@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 -->
+[![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=kprohith)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
+
+
 I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at [The University of Queensland](https://www.uq.edu.au) pursuing a Bachelor of Engineering(Honours) in Software Engineering.
 ### [Stuff I do](#stuff-i-do)
 
