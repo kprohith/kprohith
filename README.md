@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-[![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=kprohith&count_private=true&show_icons=true)]()
+[![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=kprohith&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kprohith/kprohith)
 
 
 I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at [The University of Queensland](https://www.uq.edu.au) pursuing a Bachelor of Engineering(Honours) in Software Engineering.
