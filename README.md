@@ -35,7 +35,4 @@ I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at [The 
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kprohith&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kprohith)
-
-
  
