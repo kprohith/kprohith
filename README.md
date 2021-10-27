@@ -13,7 +13,7 @@ I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at [The 
 
 ---
 
-- 📃I maintain a blog over [here](https://blog.rohithkp.me) and [here](https://r18i.me) about stuff that I'm working on.
+- 📃I maintain a blog over [here](https://blog.rohithkp.me) and [here](https://blog.r18i.me) about stuff that I'm working on.
 
 ### [How to reach me](#how-to-reach-me)
 
