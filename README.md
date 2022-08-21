@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 [![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=kprohith&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/kprohith/kprohith)
 
 
-I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a junior at [The University of Queensland](https://www.uq.edu.au) pursuing a Bachelor of Engineering(Honours) in Software Engineering. I'll be graduating in the end of 2022, and will be joining [Jump Trading](https://www.jumptrading.com/) as a SWE.
+I'm [**Rohith Palakirti**](http://www.rohithkp.me/), currently a senior at [The University of Queensland](https://www.uq.edu.au) pursuing a Bachelor of Engineering(Honours) in Software Engineering. I'll be graduating in the end of 2022, and will be joining [Jump Trading](https://www.jumptrading.com/) as a SWE.
 ### [Stuff I do](#stuff-i-do)
 
 ---
